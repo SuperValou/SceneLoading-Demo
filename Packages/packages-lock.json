@@ -16,6 +16,13 @@
       "dependencies": {},
       "hash": "5b4af16b4eba7a2ec8aa22992efc1a74ef258979"
     },
+    "com.unity.cinemachine": {
+      "version": "2.3.4",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
     "com.unity.collab-proxy": {
       "version": "1.2.16",
       "depth": 0,
@@ -41,6 +48,13 @@
     },
     "com.unity.ide.vscode": {
       "version": "1.2.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.postprocessing": {
+      "version": "2.3.0",
       "depth": 0,
       "source": "registry",
       "dependencies": {},
